@@ -1,5 +1,4 @@
 ## Hi there! 👋
-
 I'm **Alex**, a student passionate about Machine Learning, Data Science and Mathematics .
 I thrive on challenges and enjoy turning complex problems into simple solutions. Welcome to my GitHub profile!
 
@@ -17,7 +16,6 @@ py,c,pytorch,sklearn,html,css,java,latex,vscode,git,sqlite
 
 - [**4AI01**](https://github.com/AlexHibo/4AI01): This teaching is particularly interested in the representations of signals and the processing patterns that relate to them. **🌟 0 Stars** - **Language: Jupyter Notebook**  
 - [**4AI03**](https://github.com/AlexHibo/4AI03): Introduction to the theoretical foundations of random processes and time series. **🌟 0 Stars** - **Language: Jupyter Notebook**  
-- [**AlexHibo**](https://github.com/AlexHibo/AlexHibo): My personal repository for various coding experiments and projects. **🌟 0 Stars** - **Language: Not specified**
 
 ## GitHub Stats
 
