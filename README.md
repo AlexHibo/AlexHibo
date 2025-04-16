@@ -1,8 +1,8 @@
-## Hi there! 👋
+##👋 Hi there!👋
 I'm **Alex**, a student passionate about Machine Learning, Data Science and Mathematics .
 I thrive on challenges and enjoy turning complex problems into simple solutions. Welcome to my GitHub profile!
 
-## About Me
+## 🤝 About Me
 
 - 👨🏻‍🎓 Student at **Télécom Paris - Institut Polytechnique de Paris** specialized in applied Mathematics and AI
 
@@ -12,7 +12,7 @@ I thrive on challenges and enjoy turning complex problems into simple solutions.
 
 py,c,pytorch,sklearn,html,css,java,latex,vscode,git,sqlite
 
-## Top Projects
+## 📈 Top Projects
 
 - [**4AI01**](https://github.com/AlexHibo/4AI01): This teaching is particularly interested in the representations of signals and the processing patterns that relate to them. **🌟 0 Stars** - **Language: Jupyter Notebook**  
 - [**4AI03**](https://github.com/AlexHibo/4AI03): Introduction to the theoretical foundations of random processes and time series. **🌟 0 Stars** - **Language: Jupyter Notebook**  
