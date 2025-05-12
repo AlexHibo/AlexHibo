@@ -27,16 +27,15 @@ I'm also interested in sport (rugby), chess and video game.
 
 ## 📈 Top Projects
 
-- [**4AI01**](https://github.com/AlexHibo/4AI01): This teaching is particularly interested in the representations of signals and the processing patterns that relate to them. **🌟 0 Stars** - **Language: Jupyter Notebook**  
-- [**4AI03**](https://github.com/AlexHibo/4AI03): Introduction to the theoretical foundations of random processes and time series. **🌟 0 Stars** - **Language: Jupyter Notebook**  
+- [Computational_social_sciences](https://github.com/AlexHibo/Computational_social_sciences): Hands-on advanced introduction to computational social science. ⭐ 2 stars | 📝 Jupyter Notebook 
+- [Queuing](https://github.com/AlexHibo/Queuing): Projects using main tools of queuing theory. ⭐ 2 stars | 📝 Jupyter Notebook 
+- [TimeSeries4AI03](https://github.com/AlexHibo/TimeSeries4AI03): Introduction to the theoretical foundations of random processes and time series. ⭐ 0 stars | 📝 Jupyter Notebook 
+- [SignalRepresentation4AI01](https://github.com/AlexHibo/SignalRepresentation4AI01): Focuses on signal representations and processing patterns. ⭐ 0 stars | 📝 Jupyter Notebook 
+
 
 ## GitHub Stats
 
-🚀 **Public Repositories:** 3  
-👥 **Followers:** 0  
-🔗 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&show_icons=true&theme=radical)
 
 ## ASCII Art
 
