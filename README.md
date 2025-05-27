@@ -35,8 +35,7 @@ I'm also interested in sport (rugby), chess and video game.
 
 ## GitHub Stats
 
-![GitHub Stats](![AlexHibo's Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
-
+![GitHub Stats]![AlexHibo's Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## ASCII Art
 
 ```
