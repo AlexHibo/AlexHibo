@@ -7,7 +7,7 @@ I'm also interested in sport (rugby), chess and video game.
 ## 🤝 About Me
 
 - 👨🏻‍🎓 Student at **Télécom Paris - Institut Polytechnique de Paris** specialized in applied Mathematics and AI
-- Future MVA student for the year comming
+- I'm currently in the MVA master at **ENS Paris-Saclay** 
 
 - 📧 Contact me at **alexandre.mallez@gmail.com**
 
