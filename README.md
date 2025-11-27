@@ -29,6 +29,7 @@ I'm also interested in sport (rugby), chess and video game.
 ## 📈 Top Projects
 
 - [hERG-prediction](https://github.com/AlexHibo/hERG-prediction): The aim of this project is to build a binary classifier capable of predicting whether a molecule is toxic or not. . ⭐ 1 stars | 📝 Jupyter Notebook
+- [Geometry processing and deep Learning](https://github.com/AlexHibo/Geometry-processing-and-deep-learning) : Work on different model and methods to describe, analyse, classify, segment 3D Object
 - [Computational_social_sciences](https://github.com/AlexHibo/Computational_social_sciences): Hands-on advanced introduction to computational social science. ⭐ 2 stars | 📝 Jupyter Notebook 
 - [Queuing](https://github.com/AlexHibo/Queuing): Projects using main tools of queuing theory. ⭐ 2 stars | 📝 Jupyter Notebook
 
