@@ -27,7 +27,7 @@ I'm also interested in sport (rugby), chess and video game.
 </p>
 
 ## 📈 Top Projects
-
+- [Robotics Project](https://github.com/AlexHibo/Robotics-Project) : Project implementing different paper about MPC and vizualisation on a robot with pinnochio
 - [hERG-prediction](https://github.com/AlexHibo/hERG-prediction): The aim of this project is to build a binary classifier capable of predicting whether a molecule is toxic or not. . ⭐ 1 stars | 📝 Jupyter Notebook
 - [Geometry processing and deep Learning](https://github.com/AlexHibo/Geometry-processing-and-deep-learning) : Work on different model and methods to describe, analyse, classify, segment 3D Object
 - [Computational_social_sciences](https://github.com/AlexHibo/Computational_social_sciences): Hands-on advanced introduction to computational social science. ⭐ 2 stars | 📝 Jupyter Notebook 
@@ -39,25 +39,3 @@ I'm also interested in sport (rugby), chess and video game.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&theme=default&show_icons=true&hide_border=true&count_private=true)
 ## ASCII Art
 
-```
-     _    _           _   _ _ _           
-    / \  | | _____  _| | | (_) |__   ___  
-   / _ \ | |/ _ \ \/ / |_| | | '_ \ / _ \ 
-  / ___ \| |  __/>  <|  _  | | |_) | (_) |
- /_/   \_\_|\___/_/\_\_| |_|_|_.__/ \___/ 
-                                          
-```
-<!--
-**AlexHibo/AlexHibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
