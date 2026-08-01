@@ -36,8 +36,3 @@ Check [my portfolio](https://alexmallez.github.io) for more infos about me.
 - [Queuing](https://github.com/AlexHibo/Queuing): Projects using main tools of queuing theory. ⭐ 2 stars | 📝 Jupyter Notebook
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexHibo&theme=default&show_icons=true&hide_border=true&count_private=true)
-## ASCII Art
-
