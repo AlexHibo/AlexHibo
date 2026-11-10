@@ -3,6 +3,7 @@
 I'm **Alex**, a student passionate about Machine Learning, Data Science and Mathematics.\
 I thrive on challenges and enjoy turning complex problems into simple solutions. Welcome to my GitHub profile!\
 I'm also interested in sport (rugby), chess and video game.
+I have done an internship as research officer at A*star @ Singapore and I'm not ML intern at Prophesee @ Paris.
 
 Check [my portfolio](https://alexmallez.github.io) for more infos about me.
 
