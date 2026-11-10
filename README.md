@@ -5,7 +5,9 @@ I thrive on challenges and enjoy turning complex problems into simple solutions.
 I'm also interested in sport (rugby), chess and video game.
 I've just finish my 1st internship as **research officer at A*star** @ Singapore and I'm now working as **ML intern at Prophesee** @ Paris.
 
-Check [my portfolio](https://alexmallez.github.io) for more infos about me.
+Check [my portfolio](https://alexmallez.github.io) for more infos about me (last updated Septeber 2026).
+
+Here is a little website page I vibecoded to have keep some concentration while working (Pomodoro style) : https://alexhibo.github.io/odyssee-focus/.
 
 ## 🤝 About Me
 
