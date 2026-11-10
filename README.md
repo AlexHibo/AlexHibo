@@ -7,7 +7,7 @@ I've just finish my 1st internship as **research officer at A*star** @ Singapore
 
 Check [my portfolio](https://alexmallez.github.io) for more infos about me (last updated Septeber 2026).
 
-Here is a little website page I vibecoded to have keep some concentration while working (Pomodoro style) : https://alexhibo.github.io/odyssee-focus/.
+Here is website page I vibecoded to keep some concentration while working (Pomodoro style) : https://alexhibo.github.io/odyssee-focus/.
 
 ## 🤝 About Me
 
